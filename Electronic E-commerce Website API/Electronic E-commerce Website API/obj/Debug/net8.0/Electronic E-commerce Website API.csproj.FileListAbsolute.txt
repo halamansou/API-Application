@@ -1,0 +1,137 @@
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\appsettings.Development.json
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\appsettings.json
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Electronic E-commerce Website API.exe
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Electronic E-commerce Website API.deps.json
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Electronic E-commerce Website API.runtimeconfig.json
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Electronic E-commerce Website API.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Electronic E-commerce Website API.pdb
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Azure.Core.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Azure.Identity.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Humanizer.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\System.CodeDom.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\System.Memory.Data.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\Electronic E-commerce Website API.csproj.AssemblyReference.cache
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\Electronic E-commerce Website API.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\Electronic E-commerce Website API.AssemblyInfoInputs.cache
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\Electronic E-commerce Website API.AssemblyInfo.cs
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\Electronic E-commerce Website API.csproj.CoreCompileInputs.cache
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\Electronic E-commerce Website API.MvcApplicationPartsAssemblyInfo.cs
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\Electronic E-commerce Website API.MvcApplicationPartsAssemblyInfo.cache
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\Electronic E-commerce Website API.sourcelink.json
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\staticwebassets.build.json
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\staticwebassets.development.json
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\staticwebassets\msbuild.Electronic E-commerce Website API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\staticwebassets\msbuild.build.Electronic E-commerce Website API.props
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Electronic E-commerce Website API.props
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Electronic E-commerce Website API.props
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\scopedcss\bundle\Electronic E-commerce Website API.styles.css
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\Electron.FB92AC4A.Up2Date
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\Electronic E-commerce Website API.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\refint\Electronic E-commerce Website API.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\Electronic E-commerce Website API.pdb
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\Electronic E-commerce Website API.genruntimeconfig.cache
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\ref\Electronic E-commerce Website API.dll
