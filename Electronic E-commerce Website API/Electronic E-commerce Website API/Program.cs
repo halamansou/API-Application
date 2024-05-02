@@ -1,3 +1,11 @@
+using Electronic_E_commerce_Website_API.Models;
+using Electronic_E_commerce_Website_API.Repository;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+using Microsoft.EntityFrameworkCore;
 
 namespace Electronic_E_commerce_Website_API
 {
@@ -8,8 +16,14 @@ namespace Electronic_E_commerce_Website_API
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-
             builder.Services.AddControllers();
+
+            // Add DbContext and connection string configuration
+            builder.Services.AddDbContext<ECommerceContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("ecommerce")));
+
+            builder.Services.AddScoped<GenericRepository<User>>();
+
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
@@ -26,7 +40,6 @@ namespace Electronic_E_commerce_Website_API
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
-
 
             app.MapControllers();
 
