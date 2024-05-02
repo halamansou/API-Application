@@ -23,6 +23,7 @@ namespace Electronic_E_commerce_Website_API
                 options.UseSqlServer(builder.Configuration.GetConnectionString("ecommerce")));
 
             builder.Services.AddScoped<GenericRepository<User>>();
+            builder.Services.AddScoped<GenericRepository<Product>>();
 
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
