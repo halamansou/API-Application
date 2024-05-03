@@ -24,6 +24,8 @@ namespace Electronic_E_commerce_Website_API
 
             builder.Services.AddScoped<GenericRepository<User>>();
             builder.Services.AddScoped<GenericRepository<Product>>();
+            builder.Services.AddScoped<GenericRepository<Order>>();
+
 
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
