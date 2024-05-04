@@ -3,6 +3,10 @@ using Microsoft.AspNetCore.Mvc;
 using Electronic_E_commerce_Website_API.Repository;
 using Electronic_E_commerce_Website_API.Models;
 using Electronic_E_commerce_Website_API.DTO;
+using Microsoft.IdentityModel.Tokens;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
 namespace Electronic_E_commerce_Website_API.Controllers
 {
     [Route("api/[controller]")]
@@ -159,6 +163,58 @@ namespace Electronic_E_commerce_Website_API.Controllers
 
 
 
+
+        //////login without Using JWT
+
+
+
+
+        //[HttpPost("login")]
+        //public IActionResult Login(LoginDTO loginDto)
+        //{
+        //    if (!ModelState.IsValid)
+        //    {
+        //        return BadRequest(ModelState);
+        //    }
+
+        //    // Check if user exists with the provided email
+        //    var user = rep.GetAll().FirstOrDefault(u => u.Email == loginDto.Email);
+
+        //    if (user == null)
+        //    {
+        //        return NotFound("User not found");
+        //    }
+
+        //    // Check if the password matches
+        //    if (user.Password != loginDto.Password)
+        //    {
+        //        return BadRequest("Incorrect password");
+        //    }
+
+        //    // Return user details
+        //    var userDto = new UserDTO()
+        //    {
+        //        Id = user.Id,
+        //        Name = user.Username,
+        //        Address = user.Address,
+        //        Phone = user.Phone,
+        //        Email = user.Email,
+        //        Role = user.Role
+        //    };
+
+        //    return Ok(userDto);
+        //}
+
+
+
+
+
+
+
+
+
+        //////login Using JWT
+
         [HttpPost("login")]
         public IActionResult Login(LoginDTO loginDto)
         {
@@ -181,7 +237,24 @@ namespace Electronic_E_commerce_Website_API.Controllers
                 return BadRequest("Incorrect password");
             }
 
-            // Return user details
+            // Generate JWT token
+            var tokenHandler = new JwtSecurityTokenHandler();
+            var key = Encoding.ASCII.GetBytes("My Secret Key Generate By Hala Mansour Ali");
+            var tokenDescriptor = new SecurityTokenDescriptor
+            {
+                Subject = new ClaimsIdentity(new Claim[]
+                {
+            new Claim(ClaimTypes.Name, user.Id.ToString()),
+            new Claim(ClaimTypes.Email, user.Email),
+                    // Add more claims as needed
+                }),
+                Expires = DateTime.UtcNow.AddDays(1), // Token expiration time
+                SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
+            };
+            var token = tokenHandler.CreateToken(tokenDescriptor);
+            var tokenString = tokenHandler.WriteToken(token);
+
+            // Return user details along with the token
             var userDto = new UserDTO()
             {
                 Id = user.Id,
@@ -192,7 +265,7 @@ namespace Electronic_E_commerce_Website_API.Controllers
                 Role = user.Role
             };
 
-            return Ok(userDto);
+            return Ok(new { User = userDto, Token = tokenString });
         }
 
     }

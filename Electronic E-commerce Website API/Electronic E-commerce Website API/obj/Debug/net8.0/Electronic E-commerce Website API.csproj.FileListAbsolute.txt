@@ -275,3 +275,4 @@ E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website
 E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\Electronic E-commerce Website API.pdb
 E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\Electronic E-commerce Website API.genruntimeconfig.cache
 E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\obj\Debug\net8.0\ref\Electronic E-commerce Website API.dll
+E:\ITI 9M  44\33-Angular\project\My project\My Api\Electronic E-commerce Website API\Electronic E-commerce Website API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -7,22 +7,6 @@
       "RelativeMoniker": "D:0:0:{D567986C-D0FE-4E34-A52B-1A14DB340830}|Electronic E-commerce Website API\\Electronic E-commerce Website API.csproj|solutionrelative:electronic e-commerce website api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D567986C-D0FE-4E34-A52B-1A14DB340830}|Electronic E-commerce Website API\\Electronic E-commerce Website API.csproj|e:\\iti 9m  44\\33-angular\\project\\my project\\my api\\electronic e-commerce website api\\electronic e-commerce website api\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D567986C-D0FE-4E34-A52B-1A14DB340830}|Electronic E-commerce Website API\\Electronic E-commerce Website API.csproj|solutionrelative:electronic e-commerce website api\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D567986C-D0FE-4E34-A52B-1A14DB340830}|Electronic E-commerce Website API\\Electronic E-commerce Website API.csproj|e:\\iti 9m  44\\33-angular\\project\\my project\\my api\\electronic e-commerce website api\\electronic e-commerce website api\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D567986C-D0FE-4E34-A52B-1A14DB340830}|Electronic E-commerce Website API\\Electronic E-commerce Website API.csproj|solutionrelative:electronic e-commerce website api\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D567986C-D0FE-4E34-A52B-1A14DB340830}|Electronic E-commerce Website API\\Electronic E-commerce Website API.csproj|e:\\iti 9m  44\\33-angular\\project\\my project\\my api\\electronic e-commerce website api\\electronic e-commerce website api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D567986C-D0FE-4E34-A52B-1A14DB340830}|Electronic E-commerce Website API\\Electronic E-commerce Website API.csproj|solutionrelative:electronic e-commerce website api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D567986C-D0FE-4E34-A52B-1A14DB340830}|Electronic E-commerce Website API\\Electronic E-commerce Website API.csproj|e:\\iti 9m  44\\33-angular\\project\\my project\\my api\\electronic e-commerce website api\\electronic e-commerce website api\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D567986C-D0FE-4E34-A52B-1A14DB340830}|Electronic E-commerce Website API\\Electronic E-commerce Website API.csproj|solutionrelative:electronic e-commerce website api\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D567986C-D0FE-4E34-A52B-1A14DB340830}|Electronic E-commerce Website API\\Electronic E-commerce Website API.csproj|e:\\iti 9m  44\\33-angular\\project\\my project\\my api\\electronic e-commerce website api\\electronic e-commerce website api\\models\\ecommerceapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D567986C-D0FE-4E34-A52B-1A14DB340830}|Electronic E-commerce Website API\\Electronic E-commerce Website API.csproj|solutionrelative:electronic e-commerce website api\\models\\ecommerceapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,10 +23,6 @@
       "RelativeMoniker": "D:0:0:{D567986C-D0FE-4E34-A52B-1A14DB340830}|Electronic E-commerce Website API\\Electronic E-commerce Website API.csproj|solutionrelative:electronic e-commerce website api\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D567986C-D0FE-4E34-A52B-1A14DB340830}|Electronic E-commerce Website API\\Electronic E-commerce Website API.csproj|e:\\iti 9m  44\\33-angular\\project\\my project\\my api\\electronic e-commerce website api\\electronic e-commerce website api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D567986C-D0FE-4E34-A52B-1A14DB340830}|Electronic E-commerce Website API\\Electronic E-commerce Website API.csproj|solutionrelative:electronic e-commerce website api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D567986C-D0FE-4E34-A52B-1A14DB340830}|Electronic E-commerce Website API\\Electronic E-commerce Website API.csproj|e:\\iti 9m  44\\33-angular\\project\\my project\\my api\\electronic e-commerce website api\\electronic e-commerce website api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D567986C-D0FE-4E34-A52B-1A14DB340830}|Electronic E-commerce Website API\\Electronic E-commerce Website API.csproj|solutionrelative:electronic e-commerce website api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -54,72 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "E:\\ITI 9M  44\\33-Angular\\project\\My project\\My Api\\Electronic E-commerce Website API\\Electronic E-commerce Website API\\DTO\\UserDTO.cs",
-              "RelativeDocumentMoniker": "Electronic E-commerce Website API\\DTO\\UserDTO.cs",
-              "ToolTip": "E:\\ITI 9M  44\\33-Angular\\project\\My project\\My Api\\Electronic E-commerce Website API\\Electronic E-commerce Website API\\DTO\\UserDTO.cs",
-              "RelativeToolTip": "Electronic E-commerce Website API\\DTO\\UserDTO.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T09:47:35.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "E:\\ITI 9M  44\\33-Angular\\project\\My project\\My Api\\Electronic E-commerce Website API\\Electronic E-commerce Website API\\DTO\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "Electronic E-commerce Website API\\DTO\\LoginDTO.cs",
-              "ToolTip": "E:\\ITI 9M  44\\33-Angular\\project\\My project\\My Api\\Electronic E-commerce Website API\\Electronic E-commerce Website API\\DTO\\LoginDTO.cs",
-              "RelativeToolTip": "Electronic E-commerce Website API\\DTO\\LoginDTO.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAA1wBAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T09:47:26.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "E:\\ITI 9M  44\\33-Angular\\project\\My project\\My Api\\Electronic E-commerce Website API\\Electronic E-commerce Website API\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Electronic E-commerce Website API\\Controllers\\ProductController.cs",
-              "ToolTip": "E:\\ITI 9M  44\\33-Angular\\project\\My project\\My Api\\Electronic E-commerce Website API\\Electronic E-commerce Website API\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Electronic E-commerce Website API\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T08:18:19.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "E:\\ITI 9M  44\\33-Angular\\project\\My project\\My Api\\Electronic E-commerce Website API\\Electronic E-commerce Website API\\DTO\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "Electronic E-commerce Website API\\DTO\\ProductDTO.cs",
-              "ToolTip": "E:\\ITI 9M  44\\33-Angular\\project\\My project\\My Api\\Electronic E-commerce Website API\\Electronic E-commerce Website API\\DTO\\ProductDTO.cs",
-              "RelativeToolTip": "Electronic E-commerce Website API\\DTO\\ProductDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T08:18:14.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\ITI 9M  44\\33-Angular\\project\\My project\\My Api\\Electronic E-commerce Website API\\Electronic E-commerce Website API\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Electronic E-commerce Website API\\Models\\User.cs",
-              "ToolTip": "E:\\ITI 9M  44\\33-Angular\\project\\My project\\My Api\\Electronic E-commerce Website API\\Electronic E-commerce Website API\\Models\\User.cs",
-              "RelativeToolTip": "Electronic E-commerce Website API\\Models\\User.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T00:32:39.694Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -128,27 +44,27 @@
               "RelativeDocumentMoniker": "Electronic E-commerce Website API\\Controllers\\UsersController.cs",
               "ToolTip": "E:\\ITI 9M  44\\33-Angular\\project\\My project\\My Api\\Electronic E-commerce Website API\\Electronic E-commerce Website API\\Controllers\\UsersController.cs",
               "RelativeToolTip": "Electronic E-commerce Website API\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAALwAAAAAAAAAAAAAAMUAAAAFAAAA",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAAAKQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-04T00:32:16.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\ITI 9M  44\\33-Angular\\project\\My project\\My Api\\Electronic E-commerce Website API\\Electronic E-commerce Website API\\Program.cs",
               "RelativeDocumentMoniker": "Electronic E-commerce Website API\\Program.cs",
               "ToolTip": "E:\\ITI 9M  44\\33-Angular\\project\\My project\\My Api\\Electronic E-commerce Website API\\Electronic E-commerce Website API\\Program.cs",
               "RelativeToolTip": "Electronic E-commerce Website API\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAMBSwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-04T00:30:36.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ECommerceApiContext.cs",
               "DocumentMoniker": "E:\\ITI 9M  44\\33-Angular\\project\\My project\\My Api\\Electronic E-commerce Website API\\Electronic E-commerce Website API\\Models\\ECommerceApiContext.cs",
               "RelativeDocumentMoniker": "Electronic E-commerce Website API\\Models\\ECommerceApiContext.cs",
@@ -161,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\ITI 9M  44\\33-Angular\\project\\My project\\My Api\\Electronic E-commerce Website API\\Electronic E-commerce Website API\\appsettings.json",
               "RelativeDocumentMoniker": "Electronic E-commerce Website API\\appsettings.json",
@@ -174,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "E:\\ITI 9M  44\\33-Angular\\project\\My project\\My Api\\Electronic E-commerce Website API\\Electronic E-commerce Website API\\Repository\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Electronic E-commerce Website API\\Repository\\GenericRepository.cs",
@@ -187,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "OrderController.cs",
               "DocumentMoniker": "E:\\ITI 9M  44\\33-Angular\\project\\My project\\My Api\\Electronic E-commerce Website API\\Electronic E-commerce Website API\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Electronic E-commerce Website API\\Controllers\\OrderController.cs",
@@ -195,7 +111,8 @@
               "RelativeToolTip": "Electronic E-commerce Website API\\Controllers\\OrderController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T00:31:38.657Z"
+              "WhenOpened": "2024-05-04T00:31:38.657Z",
+              "EditorCaption": ""
             }
           ]
         }
