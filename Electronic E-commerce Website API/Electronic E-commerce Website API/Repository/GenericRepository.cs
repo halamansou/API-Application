@@ -4,9 +4,9 @@ namespace Electronic_E_commerce_Website_API.Repository
 {
     public class GenericRepository<TEntity> where TEntity : class
     {
-        ECommerceContext db;
+        ECommerceApiContext db;
 
-        public GenericRepository(ECommerceContext db)
+        public GenericRepository(ECommerceApiContext db)
         {
             this.db = db;
         }

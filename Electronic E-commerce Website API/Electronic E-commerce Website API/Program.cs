@@ -1,11 +1,8 @@
+
 using Electronic_E_commerce_Website_API.Models;
 using Electronic_E_commerce_Website_API.Repository;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace Electronic_E_commerce_Website_API
 {
@@ -13,19 +10,32 @@ namespace Electronic_E_commerce_Website_API
     {
         public static void Main(string[] args)
         {
+            string txt = "";
+
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
+
             builder.Services.AddControllers();
 
-            // Add DbContext and connection string configuration
-            builder.Services.AddDbContext<ECommerceContext>(options =>
-                options.UseSqlServer(builder.Configuration.GetConnectionString("ecommerce")));
+          
+
+            builder.Services.AddDbContext<ECommerceApiContext>(op => op.UseLazyLoadingProxies().UseSqlServer(builder.Configuration.GetConnectionString("ecommerce")));
+
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy(txt,
+                builder =>
+                {
+                    builder.AllowAnyOrigin();
+                    builder.AllowAnyMethod();
+                    builder.AllowAnyHeader();
+                });
+            });
 
             builder.Services.AddScoped<GenericRepository<User>>();
             builder.Services.AddScoped<GenericRepository<Product>>();
             builder.Services.AddScoped<GenericRepository<Order>>();
-
 
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
@@ -43,6 +53,8 @@ namespace Electronic_E_commerce_Website_API
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
+
+            app.UseCors(txt);
 
             app.MapControllers();
 

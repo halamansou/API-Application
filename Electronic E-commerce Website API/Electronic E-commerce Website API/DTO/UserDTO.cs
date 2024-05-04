@@ -1,17 +1,34 @@
-﻿namespace Electronic_E_commerce_Website_API.DTO
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace Electronic_E_commerce_Website_API.DTO
 {
     public class UserDTO
     {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
 
+        [Required(ErrorMessage = "Name is required")]
+        [MinLength(3, ErrorMessage = "Name must be at least 3 characters")]
         public string Name { get; set; }
+
+        [Required(ErrorMessage = "Email is required")]
+        [EmailAddress(ErrorMessage = "Invalid email address")]
         public string Email { get; set; }
+
+        [Required(ErrorMessage = "Password is required")]
+        [MinLength(8, ErrorMessage = "Password must be at least 8 characters")]
         public string Password { get; set; }
-        //public string PasswordConfirmed { get; set; }
 
+        [Required(ErrorMessage = "Phone number is required")]
+        [RegularExpression(@"^01[0125][0-9]{8}$", ErrorMessage = "Invalid phone number")]
         public string Phone { get; set; }
-        public string Address { get; set; }
-        public string Role { get; set; }
 
+        [Required(ErrorMessage = "Address is required")]
+        public string Address { get; set; }
+
+        [Required(ErrorMessage = "Role is required")]
+        public string Role { get; set; }
     }
 }

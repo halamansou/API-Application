@@ -155,5 +155,45 @@ namespace Electronic_E_commerce_Website_API.Controllers
             return NoContent();
         }
 
+
+
+
+
+        [HttpPost("login")]
+        public IActionResult Login(LoginDTO loginDto)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            // Check if user exists with the provided email
+            var user = rep.GetAll().FirstOrDefault(u => u.Email == loginDto.Email);
+
+            if (user == null)
+            {
+                return NotFound("User not found");
+            }
+
+            // Check if the password matches
+            if (user.Password != loginDto.Password)
+            {
+                return BadRequest("Incorrect password");
+            }
+
+            // Return user details
+            var userDto = new UserDTO()
+            {
+                Id = user.Id,
+                Name = user.Username,
+                Address = user.Address,
+                Phone = user.Phone,
+                Email = user.Email,
+                Role = user.Role
+            };
+
+            return Ok(userDto);
+        }
+
     }
 }

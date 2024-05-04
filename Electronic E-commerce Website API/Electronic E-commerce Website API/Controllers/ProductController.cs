@@ -1,32 +1,4 @@
-﻿//using Electronic_E_commerce_Website_API.Models;
-//using Microsoft.AspNetCore.Http;
-//using Microsoft.AspNetCore.Mvc;
-//using Electronic_E_commerce_Website_API.DTO;
-//using Electronic_E_commerce_Website_API.Repository;
-//namespace Electronic_E_commerce_Website_API.Controllers
-//{
-//    [Route("api/[controller]")]
-//    [ApiController]
-//    public class ProductController : ControllerBase
-//    {
-//        GenericRepository<Product> rep;
-//        public ProductController(GenericRepository<Product> rep)
-//        {
-//            this.rep = rep;
-//        }
-
-//        //[HttpGet]
-//        //public IActionResult GetAll()
-//        //{
-//        //    var products = rep.GetAll();
-
-//        //    return Ok(products);
-
-//        //}
-//    }
-//}
-
-using Electronic_E_commerce_Website_API.Models;
+﻿using Electronic_E_commerce_Website_API.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Electronic_E_commerce_Website_API.DTO;
