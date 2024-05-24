@@ -41,10 +41,12 @@ public partial class ECommerceApiContext : DbContext
             entity.Property(e => e.Id).HasColumnName("id");
             entity.Property(e => e.ProductId).HasColumnName("product_id");
             entity.Property(e => e.Quantity).HasColumnName("quantity");
+            
             entity.Property(e => e.UserId).HasColumnName("user_id");
 
             entity.HasOne(d => d.Product).WithMany(p => p.Carts)
                 .HasForeignKey(d => d.ProductId)
+                .OnDelete(DeleteBehavior.Cascade)
                 .HasConstraintName("FK__Cart__product_id__3E52440B");
 
             entity.HasOne(d => d.User).WithMany(p => p.Carts)
@@ -62,6 +64,7 @@ public partial class ECommerceApiContext : DbContext
 
             entity.HasOne(d => d.Product).WithMany(p => p.Favorites)
                 .HasForeignKey(d => d.ProductId)
+                .OnDelete(DeleteBehavior.Cascade)
                 .HasConstraintName("FK__Favorites__produ__4222D4EF");
 
             entity.HasOne(d => d.User).WithMany(p => p.Favorites)
@@ -109,10 +112,12 @@ public partial class ECommerceApiContext : DbContext
 
             entity.HasOne(d => d.Order).WithMany(p => p.OrderDetails)
                 .HasForeignKey(d => d.OrderId)
+                .OnDelete(DeleteBehavior.Cascade)
                 .HasConstraintName("FK__Order_Det__order__4AB81AF0");
 
             entity.HasOne(d => d.Product).WithMany(p => p.OrderDetails)
                 .HasForeignKey(d => d.ProductId)
+                .OnDelete(DeleteBehavior.Cascade)
                 .HasConstraintName("FK__Order_Det__produ__4BAC3F29");
         });
 
@@ -125,14 +130,20 @@ public partial class ECommerceApiContext : DbContext
                 .HasMaxLength(255)
                 .IsUnicode(false)
                 .HasColumnName("image");
+            entity.Property(e => e.Description)
+                .HasMaxLength(500)
+                .IsUnicode(false)
+                .HasColumnName("Description");
             entity.Property(e => e.Name)
                 .HasMaxLength(255)
                 .IsUnicode(false)
                 .HasColumnName("name");
             entity.Property(e => e.Price)
-                .HasColumnType("decimal(10, 2)")
+                 .HasColumnType("decimal(10, 2)")
                 .HasColumnName("price");
             entity.Property(e => e.Quantity).HasColumnName("quantity");
+            entity.Property(e => e.Rate).HasColumnName("Rate");
+
         });
 
         modelBuilder.Entity<Review>(entity =>
@@ -153,6 +164,7 @@ public partial class ECommerceApiContext : DbContext
 
             entity.HasOne(d => d.Product).WithMany(p => p.Reviews)
                 .HasForeignKey(d => d.ProductId)
+                .OnDelete(DeleteBehavior.Cascade)
                 .HasConstraintName("FK__Reviews__product__5070F446");
 
             entity.HasOne(d => d.User).WithMany(p => p.Reviews)

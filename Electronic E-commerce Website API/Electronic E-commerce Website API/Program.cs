@@ -1,8 +1,13 @@
-
 using Electronic_E_commerce_Website_API.Models;
 using Electronic_E_commerce_Website_API.Repository;
 using Microsoft.EntityFrameworkCore;
-using static System.Net.Mime.MediaTypeNames;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.Hosting;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.OpenApi.Models;
 
 namespace Electronic_E_commerce_Website_API
 {
@@ -10,21 +15,16 @@ namespace Electronic_E_commerce_Website_API
     {
         public static void Main(string[] args)
         {
-            string txt = "";
-
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-
             builder.Services.AddControllers();
-
-          
 
             builder.Services.AddDbContext<ECommerceApiContext>(op => op.UseLazyLoadingProxies().UseSqlServer(builder.Configuration.GetConnectionString("ecommerce")));
 
             builder.Services.AddCors(options =>
             {
-                options.AddPolicy(txt,
+                options.AddPolicy("AllowAll",
                 builder =>
                 {
                     builder.AllowAnyOrigin();
@@ -36,25 +36,51 @@ namespace Electronic_E_commerce_Website_API
             builder.Services.AddScoped<GenericRepository<User>>();
             builder.Services.AddScoped<GenericRepository<Product>>();
             builder.Services.AddScoped<GenericRepository<Order>>();
+            builder.Services.AddScoped<GenericRepository<Cart>>();
 
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+
+            builder.Services.AddScoped<UnitOfWork.UnitOfWork>();
+
+
+            //builder.Services.AddAuthentication(options =>
+            //{
+            //    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+            //    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+            //}).AddJwtBearer(options =>
+            //{
+            //    options.TokenValidationParameters = new TokenValidationParameters
+            //    {
+            //        ValidateIssuer = true,
+            //        ValidateAudience = true,
+            //        ValidateLifetime = true,
+            //        ValidateIssuerSigningKey = true,
+            //        ValidIssuer = builder.Configuration["Jwt:Issuer"],
+            //        ValidAudience = builder.Configuration["Jwt:Audience"],
+            //        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:SecretKey"]))
+            //    };
+            //});
+
             builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
+            builder.Services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1" });
+            });
 
             var app = builder.Build();
 
-            // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();
-                app.UseSwaggerUI();
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API v1"));
             }
 
             app.UseHttpsRedirection();
 
-            app.UseAuthorization();
+            app.UseCors("AllowAll");
 
-            app.UseCors(txt);
+            app.UseAuthentication();
+            app.UseAuthorization();
 
             app.MapControllers();
 
