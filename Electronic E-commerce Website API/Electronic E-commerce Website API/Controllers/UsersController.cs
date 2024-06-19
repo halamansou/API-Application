@@ -88,7 +88,7 @@ namespace Electronic_E_commerce_Website_API.Controllers
 
 
         [HttpPost]
-        public IActionResult Add(UserDTO userDto)
+        public IActionResult Add(RegesterDTO regesterDTO)
         {
             if (!ModelState.IsValid)
             {
@@ -97,12 +97,12 @@ namespace Electronic_E_commerce_Website_API.Controllers
 
             User user = new User
             {
-                Username = userDto.Name,
-                Address = userDto.Address,
-                Phone = userDto.Phone,
-                Email = userDto.Email,
-                Password = userDto.Password,
-                Role = userDto.Role
+                Username = regesterDTO.Name,
+                Address = regesterDTO.Address,
+                Phone = regesterDTO.Phone,
+                Email = regesterDTO.Email,
+                Password = regesterDTO.Password,
+                Role = "User"
             };
 
             rep.Add(user);
